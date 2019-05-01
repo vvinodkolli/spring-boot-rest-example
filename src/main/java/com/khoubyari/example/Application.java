@@ -15,6 +15,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /*
  * This is the main Spring Boot application class. It configures Spring Boot, JPA, Swagger
+ * edited
  */
 
 @SpringBootApplication
